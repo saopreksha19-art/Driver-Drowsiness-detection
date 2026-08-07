@@ -1,7 +1,18 @@
-Train dataset
-Valid dataset.venv/
+# Virtual environment
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
-.DS_Store.venv/
+
+# macOS
+.DS_Store
+
+# Local files
 image.jpg
 test.py
+
+# Training dataset (if it's large and not needed in GitHub)
+Train dataset/
+.vscode/
+.DS_Store
